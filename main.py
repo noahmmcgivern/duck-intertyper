@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import numpy
-from random import randint
 import sys
 
 MU: int = 130
