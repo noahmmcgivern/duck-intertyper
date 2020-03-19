@@ -1,0 +1,37 @@
+REM This is a comment and is ignored just the same!
+
+STRING Hello World!
+ENTER
+
+STRING The Rubber Ducky is a cool little gadget.
+ENTER
+
+STRING It's not a USB, but a keyboard.
+ENTER
+
+STRING It can send commands in the form of text...
+ENTER
+
+STRING ...with awesome, unwieldy speed and power.
+ENTER
+
+STRING This speed doesn't go unnoticed.
+ENTER
+
+STRING Because after all,
+ENTER
+
+STRING Who actually types at 1000 words/second?
+ENTER
+
+STRING But don't worry.
+ENTER
+
+STRING I have a solution.
+ENTER
+
+STRING This Python script adds a layer of stealth to your scripts...
+ENTER
+
+STRING ...by adding a human touch to your Ducky.
+ENTER
